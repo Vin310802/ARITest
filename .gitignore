@@ -1,0 +1,8 @@
+# credentials and local files that never go to the repository
+Keys.txt
+.env
+*.session
+__pycache__/
+*.pyc
+# transcripts of the live tests
+test_unisa_rag_*.md
